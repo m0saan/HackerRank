@@ -1,3 +1,4 @@
+
 int birthdayCakeCandles(vector<int> candles) {
   map<int, int> map;
   int max_height_candles = candles[0];
